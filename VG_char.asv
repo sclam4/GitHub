@@ -1,0 +1,5 @@
+function out=VG_char(parameters, S0,T,r,q,sigma_yr,theta_yr,nu)
+
+C=parameters(1);
+G=parameters(2);
+M=parameters(3);
